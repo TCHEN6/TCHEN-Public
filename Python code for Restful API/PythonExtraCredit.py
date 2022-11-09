@@ -88,8 +88,8 @@ def whatToWear(temp):
 #takes in zip codes as input to retrieve the weather from opweathermap's API. Weather will be returned in fahrenheit as a json
 def get_weather(zip):
     #Defined Variables
-    apiKey  = "c8efac34cc3548754ca009222d24da49" #key to use api (Provided by FS)
-    apiKey2 = "859c7ba8dfc525653b51d138227b0784" #Personal API key 
+    apiKey  = "REDACTED" #key to use api (Provided by FS)
+    apiKey2 = "REDACTED" #Personal API key 
     apiCall = "http://api.openweathermap.org/data/2.5/weather?" #base url for requesting weather
     units   = 'imperial' #change the value of the unit return from API (Choose from standard, metric, imperial)
 
