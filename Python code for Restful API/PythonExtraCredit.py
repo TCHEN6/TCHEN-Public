@@ -1,5 +1,5 @@
 '''
-Travis Chen
+Travis Chen - Extra Credit Coding Assignment
 
 Create a python application that takes an input request of a city and displays 
 the current weather for that city. Based on the temperature returned determine if the 
@@ -27,11 +27,13 @@ Extra Credit Points Determined by the following:
 1D Point for even attempting
 1D Point for successful API call
 1D point for parsing the data 
-1 point for conditional implementation ( wear a coat/ wear shorts)
-1 point for correct output decision
+1D point for conditional implementation ( wear a coat/ wear shorts)
+1D point for correct output decision
 
 
-formatted json out for testing purposes and easier to read than the terminal out..
+a copy of the json output for helping my code
+used https://jsonformatter.curiousconcept.com/ to help with formatting since it was not formatted from my terminal
+
 {
    "coord":{
       "lon":-92.4053,
